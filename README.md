@@ -87,8 +87,8 @@ I am a highly motivated software engineer with a proven track record of deliveri
 ---
 
 ## 📈 GitHub Stats
-![Kessler’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesslertorres&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesslertorres&layout=compact&theme=radical)
+![Kessler’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kessler428&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kessler428&layout=compact&theme=radical)
 
 ---
 
